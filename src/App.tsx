@@ -340,7 +340,7 @@ export default function App() {
               At Cognitoxlabs, we blend strategy with stunning visual narratives. We are a collection of dreamers, builders, and designers dedicated to scaling your digital presence.
             </p>
             <div className="mt-12 flex flex-col gap-4">
-              {['100+ Successful Projects', 'Global Client Base', 'Award Winning Design'].map((item) => (
+              {['6+ Successful Projects', 'Global Client Base', 'Award Winning Design'].map((item) => (
                 <div key={item} className="flex items-center gap-3 text-lg font-semibold uppercase tracking-tight text-white/80">
                   <CheckCircle2 size={20} className="text-white/40" />
                   {item}
